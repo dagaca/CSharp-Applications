@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workaround", "Workaround\Workaround.csproj", "{69D2ED4E-DDE6-4AFD-AE00-E1833A7BE8CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{8A667FA9-D906-49D4-B018-B2BA427253A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{CFAA9AF0-8F64-4BD3-AC02-816AA5671174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D2ED4E-DDE6-4AFD-AE00-E1833A7BE8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D2ED4E-DDE6-4AFD-AE00-E1833A7BE8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D2ED4E-DDE6-4AFD-AE00-E1833A7BE8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D2ED4E-DDE6-4AFD-AE00-E1833A7BE8CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A667FA9-D906-49D4-B018-B2BA427253A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A667FA9-D906-49D4-B018-B2BA427253A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A667FA9-D906-49D4-B018-B2BA427253A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A667FA9-D906-49D4-B018-B2BA427253A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAA9AF0-8F64-4BD3-AC02-816AA5671174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAA9AF0-8F64-4BD3-AC02-816AA5671174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAA9AF0-8F64-4BD3-AC02-816AA5671174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAA9AF0-8F64-4BD3-AC02-816AA5671174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FC1806-6807-45D7-9EF1-14726585768B}
+	EndGlobalSection
+EndGlobal
