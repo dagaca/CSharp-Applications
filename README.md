@@ -2,6 +2,26 @@
 
 ## Intro
 
+Bu C# konsol uygulaması, basit bir örnek sunar ve başlangıç seviyesi C# programlama kavramlarını içerir. Uygulama, "Hello, World!" gibi basit bir çıktıdan başlayarak, değişkenlerin tanımlanması, koşullu ifadelerin kullanımı, döngülerin ve sınıfların oluşturulması gibi temel konuları kapsar.
+
+### Kod İçeriği ve Açıklamaları
+- Main metodu, programın giriş noktasını oluşturur ve uygulamanın ana iş mantığını içerir.
+- Değişkenlerin tanımlanması ve kullanımı temsil edilir: string, int, double ve bool.
+- if-else koşullu ifadeleri, kullanıcının kimlik doğrulamasını simüle etmek için kullanılır.
+- Diziler (Arrays) kullanılarak kredi türleri saklanır ve bir döngü aracılığıyla ekrana yazdırılır.
+- Bir sınıf olan Course, kurs bilgilerini içerir: kimlik (Id), isim (Name), açıklama (Description) ve fiyat (Price).
+- Kursların bir listesi oluşturulur ve bu liste döngü aracılığıyla ekrana yazdırılır.
+- CourseManager sınıfı, kurslarla ilgili işlemleri gerçekleştirmek için kullanılır. GetAll metodu, tüm kursları döndürür.
+- Son olarak, programın sonlandığını belirten bir çıktı ekrana yazdırılır.
+
+### Nasıl Çalıştırılır?
+1. Projeyi bir C# geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
+2. Program.cs dosyasını açın.
+3. Projeyi derleyin ve çalıştırın.
+4. Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
+
+Bu uygulama, C# programlama dilini anlamak ve temel kavramları uygulamak için iyi bir başlangıç ​​noktasıdır.
+
 
 ## MaskeTakip Uygulaması
 
@@ -25,9 +45,9 @@ Bu C# konsol uygulaması, maskelerin dağıtımını takip etmek için basit bir
 
 ### Nasıl Çalıştırılır?
 
-- Projeyi bir C# geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
-- Program.cs dosyasını açın.
-- Projeyi derleyin ve çalıştırın.
-- Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
+1. Projeyi bir C# geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
+2. Program.cs dosyasını açın.
+3. Projeyi derleyin ve çalıştırın.
+4. Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
 
 Uygulama, temel C# programlama kavramlarını anlamak ve uygulamak için iyi bir örnek teşkil eder.
