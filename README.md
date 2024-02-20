@@ -12,7 +12,9 @@ Bu C# konsol uygulaması, basit bir örnek sunar ve başlangıç seviyesi C# pro
 - Bir sınıf olan Course, kurs bilgilerini içerir: kimlik (Id), isim (Name), açıklama (Description) ve fiyat (Price).
 - Kursların bir listesi oluşturulur ve bu liste döngü aracılığıyla ekrana yazdırılır.
 - CourseManager sınıfı, kurslarla ilgili işlemleri gerçekleştirmek için kullanılır. GetAll metodu, tüm kursları döndürür.
-- Son olarak, programın sonlandığını belirten bir çıktı ekrana yazdırılır.
+- Müşterileri temsil eden IndividualCustomer ve CorporateCustomer sınıfları tanımlanır ve bu sınıflardan nesneler oluşturulur.
+- Değer atama işlemleri ve referans tiplerin (array, class, interface) davranışı incelenir.
+- Polimorfizm kullanılarak, müşteri bilgileri ekrana yazdırılır.
 
 ### Nasıl Çalıştırılır?
 1. Projeyi bir C# geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
