@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dagac\\source\\repos\\Intro\\Intro\\Intro.csproj": {}
+    "C:\\Users\\dagac\\Desktop\\github\\CSharp-Applications\\Intro\\Intro\\Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dagac\\source\\repos\\Intro\\Intro\\Intro.csproj": {
+    "C:\\Users\\dagac\\Desktop\\github\\CSharp-Applications\\Intro\\Intro\\Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dagac\\source\\repos\\Intro\\Intro\\Intro.csproj",
+        "projectUniqueName": "C:\\Users\\dagac\\Desktop\\github\\CSharp-Applications\\Intro\\Intro\\Intro.csproj",
         "projectName": "Intro",
-        "projectPath": "C:\\Users\\dagac\\source\\repos\\Intro\\Intro\\Intro.csproj",
+        "projectPath": "C:\\Users\\dagac\\Desktop\\github\\CSharp-Applications\\Intro\\Intro\\Intro.csproj",
         "packagesPath": "C:\\Users\\dagac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dagac\\source\\repos\\Intro\\Intro\\obj\\",
+        "outputPath": "C:\\Users\\dagac\\Desktop\\github\\CSharp-Applications\\Intro\\Intro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
