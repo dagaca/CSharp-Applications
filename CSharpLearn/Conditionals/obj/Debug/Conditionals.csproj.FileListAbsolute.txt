@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Conditionals\obj\Debug\Conditionals.pdb
