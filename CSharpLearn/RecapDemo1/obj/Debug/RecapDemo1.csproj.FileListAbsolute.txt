@@ -1,0 +1,10 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\RecapDemo1\obj\Debug\RecapDemo1.pdb

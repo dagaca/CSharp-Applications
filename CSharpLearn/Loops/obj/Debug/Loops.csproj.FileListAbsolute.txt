@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\bin\Debug\Loops.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\bin\Debug\Loops.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\bin\Debug\Loops.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\obj\Debug\Loops.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Loops\obj\Debug\Loops.pdb

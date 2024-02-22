@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\bin\Debug\Arrays.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\bin\Debug\Arrays.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\obj\Debug\Arrays.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Arrays\obj\Debug\Arrays.pdb
