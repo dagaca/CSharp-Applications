@@ -1,5 +1,29 @@
 # CSharp-Applications
 
+## CSharpLearn
+
+Bu C# öğrenme rehberi, farklı temel konuları içeren örnek kodları içerir. Her bir konu ayrı bir alt dizinde bulunur ve o konuya özgü örnekler içerir.
+
+### Konular ve İçerikler
+- Arrays (Diziler): Dizilerle ilgili temel işlemleri içerir.
+- Classes (Sınıflar): Sınıfların nasıl tanımlanıp kullanılacağını gösterir.
+- Conditionals (Koşullu İfadeler): If-else ve switch-case gibi koşullu ifadelerin kullanımını içerir.
+- Inheritance (Kalıtım): Sınıflar arasında kalıtım ilişkilerinin nasıl kurulduğunu gösterir.
+- Interfaces (Arayüzler): Arayüzlerin nasıl tanımlanıp uygulandığını gösterir.
+- InterfacesDemo (Arayüzler Örneği): Arayüzlerin kullanımına ilişkin detaylı örnekler içerir.
+- Loops (Döngüler): For, while ve do-while döngülerinin kullanımını içerir.
+- Methods (Metotlar): Metodların tanımlanması ve kullanımını içerir.
+- RecapDemo1 (Tekrar Örneği 1): Öğrenilen konuların bir araya getirilerek uygulandığı örnekler içerir.
+- Strings (Karakter Dizileri): String veri tipinin kullanımını içerir.
+- TypesAndVariables (Tipler ve Değişkenler): Değişken tanımlama ve farklı veri tiplerini içerir.
+
+### Nasıl Kullanılır?
+1. İlgili konuyu seçin ve alt dizine gidin.
+2. İlgili örnekleri açın ve kodları inceleyin.
+3. Her örneği çalıştırarak sonuçları gözlemleyin.
+
+Bu rehber, C# programlama dilini öğrenmek isteyenler için temel kavramların anlaşılmasına yardımcı olmak amacıyla oluşturulmuştur.
+
 ## Intro
 
 Bu C# konsol uygulaması, basit bir örnek sunar ve başlangıç seviyesi C# programlama kavramlarını içerir. Uygulama, "Hello, World!" gibi basit bir çıktıdan başlayarak, değişkenlerin tanımlanması, koşullu ifadelerin kullanımı, döngülerin ve sınıfların oluşturulması gibi temel konuları kapsar.
