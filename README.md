@@ -8,13 +8,19 @@ Bu C# öğrenme rehberi, farklı temel konuları içeren örnek kodları içerir
 - Arrays (Diziler): Dizilerle ilgili temel işlemleri içerir.
 - Classes (Sınıflar): Sınıfların nasıl tanımlanıp kullanılacağını gösterir.
 - Conditionals (Koşullu İfadeler): If-else ve switch-case gibi koşullu ifadelerin kullanımını içerir.
+- Constructors (Kurucular): Kurucu metotların kullanımını içerir.
+- Generics (Jenerikler): Jenerik (generic) yapıların kullanımını içerir.
 - Inheritance (Kalıtım): Sınıflar arasında kalıtım ilişkilerinin nasıl kurulduğunu gösterir.
 - Interfaces (Arayüzler): Arayüzlerin nasıl tanımlanıp uygulandığını gösterir.
+- Interfaces2 (Arayüzler 2): Arayüzlerin daha gelişmiş kullanımlarını içerir.
 - InterfacesDemo (Arayüzler Örneği): Arayüzlerin kullanımına ilişkin detaylı örnekler içerir.
+- LinqProject (Linq Projesi): Language Integrated Query (LINQ) kullanımını içerir.
 - Loops (Döngüler): For, while ve do-while döngülerinin kullanımını içerir.
 - Methods (Metotlar): Metodların tanımlanması ve kullanımını içerir.
 - RecapDemo1 (Tekrar Örneği 1): Öğrenilen konuların bir araya getirilerek uygulandığı örnekler içerir.
+- ReferenceTypes (Referans Tipleri): Referans türlerinin kullanımını içerir.
 - Strings (Karakter Dizileri): String veri tipinin kullanımını içerir.
+- ThreadingDemo_1 (Eş Zamanlılık Örneği 1): Asenkron programlama ve eş zamanlılık (threading) konularını içerir.
 - TypesAndVariables (Tipler ve Değişkenler): Değişken tanımlama ve farklı veri tiplerini içerir.
 
 ### Nasıl Kullanılır?
