@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Interfaces2\obj\Debug\Interfaces2.pdb

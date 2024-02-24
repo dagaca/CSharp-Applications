@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ReferenceTypes\obj\Debug\ReferenceTypes.pdb

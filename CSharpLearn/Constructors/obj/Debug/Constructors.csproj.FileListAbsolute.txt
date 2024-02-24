@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\bin\Debug\Constructors.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\bin\Debug\Constructors.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\obj\Debug\Constructors.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Constructors\obj\Debug\Constructors.pdb

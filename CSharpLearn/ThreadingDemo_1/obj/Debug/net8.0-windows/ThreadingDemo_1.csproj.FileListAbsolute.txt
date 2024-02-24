@@ -1,0 +1,17 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.Form1.resources
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.csproj.GenerateResource.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.AssemblyInfoInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.AssemblyInfo.cs
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.sourcelink.json
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\bin\Debug\net8.0-windows\ThreadingDemo_1.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\bin\Debug\net8.0-windows\ThreadingDemo_1.deps.json
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\bin\Debug\net8.0-windows\ThreadingDemo_1.runtimeconfig.json
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\bin\Debug\net8.0-windows\ThreadingDemo_1.dll
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\bin\Debug\net8.0-windows\ThreadingDemo_1.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.dll
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\refint\ThreadingDemo_1.dll
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ThreadingDemo_1.genruntimeconfig.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\ThreadingDemo_1\obj\Debug\net8.0-windows\ref\ThreadingDemo_1.dll

@@ -1,0 +1,7 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\bin\Debug\Generics.exe.config
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\bin\Debug\Generics.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\bin\Debug\Generics.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\obj\Debug\Generics.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\CSharpLearn\Generics\obj\Debug\Generics.pdb
