@@ -83,3 +83,45 @@ Bu C# konsol uygulaması, maskelerin dağıtımını takip etmek için basit bir
 4. Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
 
 Uygulama, temel C# programlama kavramlarını anlamak ve uygulamak için iyi bir örnek teşkil eder.
+
+## Eğitim Platformu Veritabanı Simülasyonu
+
+Bu proje, bir eğitim platformunda kurslar, eğitmenler ve kategorilerin veritabanı işlemlerini simüle etmektedir.
+
+### Genel Bakış
+
+Proje şu bileşenleri içermektedir:
+
+Business Layer: Kurslar, eğitmenler ve kategorileri yönetmek için iş mantığı işlevselliğini içerir.
+Data Access Layer: Veritabanıyla etkileşim için veri erişim işlevselliğini sağlar.
+Entities: Kurslar, eğitmenler ve kategoriler için varlık sınıflarını tanımlar.
+
+### Kullanım
+Proje, her bir varlık için temel CRUD (Add, Update, Delete) işlemlerini gösterir:
+
+#### Kurslar
+- Tüm kursları listeleme.
+- Yeni bir kurs eklemek.
+- Mevcut bir kursu güncelleme.
+- Bir kursu silme.
+
+#### Eğitmenler
+- Tüm eğitmenleri listeleme.
+- Yeni eğitmenler eklemek.
+- Mevcut eğitmenleri güncelleme.
+- Bir eğitmeni silme.
+
+#### Kategoriler
+- Tüm kategorileri listeleme.
+- Yeni kategoriler eklemek.
+- Mevcut kategorileri güncelleme.
+- Bir kategoriyi silme.
+
+
+### Nasıl Çalıştırılır?
+
+- Bu repoyu yerel makinenize klonlayın.
+- Çözüm dosyasını (EducationalPlatformDBSimulation.sln) Visual Studio veya uyumlu bir IDE'de açın.
+- Çözümü derleyin ve projeyi çalıştırın.
+
+Bu proje bir simülasyondur ve gerçek bir veritabanı ile etkileşime geçmez. Simüle bir ortam kullanarak veritabanı yönetimi kavramlarını göstermek amacıyla tasarlanmıştır.
