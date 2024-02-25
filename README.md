@@ -28,7 +28,7 @@ Bu C# öğrenme rehberi, farklı temel konuları içeren örnek kodları içerir
 2. İlgili örnekleri açın ve kodları inceleyin.
 3. Her örneği çalıştırarak sonuçları gözlemleyin.
 
-Bu rehber, C# programlama dilini öğrenmek isteyenler için temel kavramların anlaşılmasına yardımcı olmak amacıyla oluşturulmuştur.
+** Bu rehber, C# programlama dilini öğrenmek isteyenler için temel kavramların anlaşılmasına yardımcı olmak amacıyla oluşturulmuştur. **
 
 ## Intro
 
