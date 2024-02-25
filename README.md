@@ -5,6 +5,7 @@
 Bu C# öğrenme rehberi, farklı temel konuları içeren örnek kodları içerir. Her bir konu ayrı bir alt dizinde bulunur ve o konuya özgü örnekler içerir.
 
 ### Konular ve İçerikler
+
 - Arrays (Diziler): Dizilerle ilgili temel işlemleri içerir.
 - Classes (Sınıflar): Sınıfların nasıl tanımlanıp kullanılacağını gösterir.
 - Conditionals (Koşullu İfadeler): If-else ve switch-case gibi koşullu ifadelerin kullanımını içerir.
@@ -24,17 +25,22 @@ Bu C# öğrenme rehberi, farklı temel konuları içeren örnek kodları içerir
 - TypesAndVariables (Tipler ve Değişkenler): Değişken tanımlama ve farklı veri tiplerini içerir.
 
 ### Nasıl Kullanılır?
+
 1. İlgili konuyu seçin ve alt dizine gidin.
 2. İlgili örnekleri açın ve kodları inceleyin.
 3. Her örneği çalıştırarak sonuçları gözlemleyin.
 
+
 **Bu rehber, C# programlama dilini öğrenmek isteyenler için temel kavramların anlaşılmasına yardımcı olmak amacıyla oluşturulmuştur.**
+
+
 
 ## Intro
 
 Bu C# konsol uygulaması, basit bir örnek sunar ve başlangıç seviyesi C# programlama kavramlarını içerir. Uygulama, "Hello, World!" gibi basit bir çıktıdan başlayarak, değişkenlerin tanımlanması, koşullu ifadelerin kullanımı, döngülerin ve sınıfların oluşturulması gibi temel konuları kapsar.
 
 ### Kod İçeriği ve Açıklamaları
+
 - Main metodu, programın giriş noktasını oluşturur ve uygulamanın ana iş mantığını içerir.
 - Değişkenlerin tanımlanması ve kullanımı temsil edilir: string, int, double ve bool.
 - if-else koşullu ifadeleri, kullanıcının kimlik doğrulamasını simüle etmek için kullanılır.
@@ -47,12 +53,15 @@ Bu C# konsol uygulaması, basit bir örnek sunar ve başlangıç seviyesi C# pro
 - Polimorfizm kullanılarak, müşteri bilgileri ekrana yazdırılır.
 
 ### Nasıl Çalıştırılır?
+
 1. Projeyi bir C# geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
 2. Program.cs dosyasını açın.
 3. Projeyi derleyin ve çalıştırın.
 4. Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
 
+
 **Bu uygulama, C# programlama dilini anlamak ve temel kavramları uygulamak için iyi bir başlangıç ​​noktasıdır.**
+
 
 
 ## MaskeTakip Uygulaması
@@ -93,27 +102,29 @@ Bu proje, bir eğitim platformunda kurslar, eğitmenler ve kategorilerin veritab
 Proje şu bileşenleri içermektedir:
 
 - Business Layer: Kurslar, eğitmenler ve kategorileri yönetmek için iş mantığı işlevselliğini içerir.
-
 - Data Access Layer: Veritabanıyla etkileşim için veri erişim işlevselliğini sağlar.
-
 - Entities: Kurslar, eğitmenler ve kategoriler için varlık sınıflarını tanımlar.
 
 ### Kullanım
+
 Proje, her bir varlık için temel CRUD (Add, Update, Delete) işlemlerini gösterir:
 
 #### Kurslar
+
 - Tüm kursları listeleme.
 - Yeni bir kurs eklemek.
 - Mevcut bir kursu güncelleme.
 - Bir kursu silme.
 
 #### Eğitmenler
+
 - Tüm eğitmenleri listeleme.
 - Yeni eğitmenler eklemek.
 - Mevcut eğitmenleri güncelleme.
 - Bir eğitmeni silme.
 
 #### Kategoriler
+
 - Tüm kategorileri listeleme.
 - Yeni kategoriler eklemek.
 - Mevcut kategorileri güncelleme.
@@ -122,53 +133,47 @@ Proje, her bir varlık için temel CRUD (Add, Update, Delete) işlemlerini göst
 
 ### Nasıl Çalıştırılır?
 
-- Bu repoyu yerel makinenize klonlayın.
+1. Bu repoyu yerel makinenize klonlayın.
+2. Çözüm dosyasını (EducationalPlatformDBSimulation.sln) Visual Studio veya uyumlu bir IDE'de açın.
+3. Çözümü derleyin ve projeyi çalıştırın.
 
-- Çözüm dosyasını (EducationalPlatformDBSimulation.sln) Visual Studio veya uyumlu bir IDE'de açın.
-
-- Çözümü derleyin ve projeyi çalıştırın.
 
 **Bu proje bir simülasyondur ve gerçek bir veritabanı ile etkileşime geçmez. Simüle bir ortam kullanarak veritabanı yönetimi kavramlarını göstermek amacıyla tasarlanmıştır.**
 
 
+
 ## WebApi
+
 Bu Web API projesi, marka bilgilerini yönetmek için bir arayüz sağlar.
 
 ### Genel Bakış
+
 Bu proje, farklı markaların eklenmesi için temel CRUD işlemlerinden olan (Add) gerçekleştiren bir API sunar.
 
 ### Proje Yapısı
+
 Proje aşağıdaki katmanlardan oluşmaktadır:
 
 - Entities: Veritabanı varlıklarını (örneğin, marka) içerir.
-
 - DataAccess: Veritabanı işlemlerini yöneten veri erişim katmanını içerir.
-
 - Business: İş mantığı işlevselliğini yöneten iş katmanını içerir.
-
 - WebApi: HTTP isteklerini karşılayan ve API rotalarını yöneten Web API katmanını içerir.
-
 - Core: Ortak ve paylaşılan bileşenleri içerir.
 
 ### Servisler
+
 Proje, iş mantığı işlevselliğini ve veri erişimini sağlayan servisleri içerir:
 
 - IBrandService: Marka işlemlerini yönetmek için soyut bir arayüz sağlar.
-
 - BrandManager: Marka işlemlerini gerçekleştiren iş mantığı katmanıdır.
-
 - IBrandDal: Veritabanı işlemlerini yönetmek için soyut bir arayüz sağlar.
-
 - BrandDal: Veritabanı işlemlerini gerçekleştiren veri erişim katmanıdır.
 
 ### Nasıl Çalıştırılır?
-- Proje dosyalarınızı klonlayın veya indirin.
-
-- Projeyi bir geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
-
-- Projeyi derleyin ve çalıştırın.
-
-- API'ye istekler göndererek ve Swagger arayüzünü kullanarak API'yi test edin.
+1. Proje dosyalarınızı klonlayın veya indirin.
+2. Projeyi bir geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
+3.Projeyi derleyin ve çalıştırın.
+4. API'ye istekler göndererek ve Swagger arayüzünü kullanarak API'yi test edin.
 
 
 **Proje geliştirme aşamasındadır ve güvenliği veya performansı garanti etmez.**
