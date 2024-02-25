@@ -123,7 +123,52 @@ Proje, her bir varlık için temel CRUD (Add, Update, Delete) işlemlerini göst
 ### Nasıl Çalıştırılır?
 
 - Bu repoyu yerel makinenize klonlayın.
+
 - Çözüm dosyasını (EducationalPlatformDBSimulation.sln) Visual Studio veya uyumlu bir IDE'de açın.
+
 - Çözümü derleyin ve projeyi çalıştırın.
 
 Bu proje bir simülasyondur ve gerçek bir veritabanı ile etkileşime geçmez. Simüle bir ortam kullanarak veritabanı yönetimi kavramlarını göstermek amacıyla tasarlanmıştır.
+
+
+## WebApi
+Bu Web API projesi, marka bilgilerini yönetmek için bir arayüz sağlar.
+
+### Genel Bakış
+Bu proje, farklı markaların eklenmesi için temel CRUD işlemlerinden olan (Add) gerçekleştiren bir API sunar.
+
+### Proje Yapısı
+Proje aşağıdaki katmanlardan oluşmaktadır:
+
+- Entities: Veritabanı varlıklarını (örneğin, marka) içerir.
+
+- DataAccess: Veritabanı işlemlerini yöneten veri erişim katmanını içerir.
+
+- Business: İş mantığı işlevselliğini yöneten iş katmanını içerir.
+
+- WebApi: HTTP isteklerini karşılayan ve API rotalarını yöneten Web API katmanını içerir.
+
+- Core: Ortak ve paylaşılan bileşenleri içerir.
+
+### Servisler
+Proje, iş mantığı işlevselliğini ve veri erişimini sağlayan servisleri içerir:
+
+- IBrandService: Marka işlemlerini yönetmek için soyut bir arayüz sağlar.
+
+- BrandManager: Marka işlemlerini gerçekleştiren iş mantığı katmanıdır.
+
+- IBrandDal: Veritabanı işlemlerini yönetmek için soyut bir arayüz sağlar.
+
+- BrandDal: Veritabanı işlemlerini gerçekleştiren veri erişim katmanıdır.
+
+### Nasıl Çalıştırılır?
+- Proje dosyalarınızı klonlayın veya indirin.
+
+- Projeyi bir geliştirme ortamında (örneğin, Visual Studio veya Visual Studio Code) açın.
+
+- Projeyi derleyin ve çalıştırın.
+
+- API'ye istekler göndererek ve Swagger arayüzünü kullanarak API'yi test edin.
+
+
+Proje geliştirme aşamasındadır ve güvenliği veya performansı garanti etmez.
