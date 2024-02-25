@@ -1,0 +1,15 @@
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\bin\Debug\net8.0\EducationalPlatformDBSimulation.exe
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\bin\Debug\net8.0\EducationalPlatformDBSimulation.deps.json
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\bin\Debug\net8.0\EducationalPlatformDBSimulation.runtimeconfig.json
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\bin\Debug\net8.0\EducationalPlatformDBSimulation.dll
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\bin\Debug\net8.0\EducationalPlatformDBSimulation.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.AssemblyInfoInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.AssemblyInfo.cs
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.csproj.CoreCompileInputs.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.sourcelink.json
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.dll
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\refint\EducationalPlatformDBSimulation.dll
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.pdb
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\EducationalPlatformDBSimulation.genruntimeconfig.cache
+C:\Users\dagac\Desktop\github\CSharp-Applications\EducationalPlatformDBSimulation\EducationalPlatformDBSimulation\obj\Debug\net8.0\ref\EducationalPlatformDBSimulation.dll

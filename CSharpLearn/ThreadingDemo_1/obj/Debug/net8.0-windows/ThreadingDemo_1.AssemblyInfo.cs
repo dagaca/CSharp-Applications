@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadingDemo_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+671026722f28a243cea64de1ab9f40c03d70166f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63f4e73ff379e654d9ee0a9ea82a89ffa4ea3c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadingDemo_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadingDemo_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
