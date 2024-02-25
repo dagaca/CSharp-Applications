@@ -31,7 +31,7 @@ Bu C# öğrenme rehberi, farklı temel konuları içeren örnek kodları içerir
 3. Her örneği çalıştırarak sonuçları gözlemleyin.
 
 
-**Bu rehber, C# programlama dilini öğrenmek isteyenler için temel kavramların anlaşılmasına yardımcı olmak amacıyla oluşturulmuştur.**
+- **Bu rehber, C# programlama dilini öğrenmek isteyenler için temel kavramların anlaşılmasına yardımcı olmak amacıyla oluşturulmuştur.**
 
 
 
@@ -60,7 +60,7 @@ Bu C# konsol uygulaması, basit bir örnek sunar ve başlangıç seviyesi C# pro
 4. Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
 
 
-**Bu uygulama, C# programlama dilini anlamak ve temel kavramları uygulamak için iyi bir başlangıç ​​noktasıdır.**
+- **Bu uygulama, C# programlama dilini anlamak ve temel kavramları uygulamak için iyi bir başlangıç ​​noktasıdır.**
 
 
 
@@ -91,7 +91,7 @@ Bu C# konsol uygulaması, maskelerin dağıtımını takip etmek için basit bir
 3. Projeyi derleyin ve çalıştırın.
 4. Konsol çıktısında, programın çalışmasıyla ilgili bilgileri göreceksiniz.
 
-**Uygulama, temel C# programlama kavramlarını anlamak ve uygulamak için iyi bir örnek teşkil eder.**
+- **Uygulama, temel C# programlama kavramlarını anlamak ve uygulamak için iyi bir örnek teşkil eder.**
 
 ## Eğitim Platformu Veritabanı Simülasyonu
 
@@ -138,7 +138,7 @@ Proje, her bir varlık için temel CRUD (Add, Update, Delete) işlemlerini göst
 3. Çözümü derleyin ve projeyi çalıştırın.
 
 
-**Bu proje bir simülasyondur ve gerçek bir veritabanı ile etkileşime geçmez. Simüle bir ortam kullanarak veritabanı yönetimi kavramlarını göstermek amacıyla tasarlanmıştır.**
+- **Bu proje bir simülasyondur ve gerçek bir veritabanı ile etkileşime geçmez. Simüle bir ortam kullanarak veritabanı yönetimi kavramlarını göstermek amacıyla tasarlanmıştır.**
 
 
 
@@ -176,4 +176,4 @@ Proje, iş mantığı işlevselliğini ve veri erişimini sağlayan servisleri i
 4. API'ye istekler göndererek ve Swagger arayüzünü kullanarak API'yi test edin.
 
 
-**Proje geliştirme aşamasındadır ve güvenliği veya performansı garanti etmez.**
+- **Proje geliştirme aşamasındadır ve güvenliği veya performansı garanti etmez.**
