@@ -92,9 +92,11 @@ Bu proje, bir eğitim platformunda kurslar, eğitmenler ve kategorilerin veritab
 
 Proje şu bileşenleri içermektedir:
 
-Business Layer: Kurslar, eğitmenler ve kategorileri yönetmek için iş mantığı işlevselliğini içerir.
-Data Access Layer: Veritabanıyla etkileşim için veri erişim işlevselliğini sağlar.
-Entities: Kurslar, eğitmenler ve kategoriler için varlık sınıflarını tanımlar.
+- Business Layer: Kurslar, eğitmenler ve kategorileri yönetmek için iş mantığı işlevselliğini içerir.
+
+- Data Access Layer: Veritabanıyla etkileşim için veri erişim işlevselliğini sağlar.
+
+- Entities: Kurslar, eğitmenler ve kategoriler için varlık sınıflarını tanımlar.
 
 ### Kullanım
 Proje, her bir varlık için temel CRUD (Add, Update, Delete) işlemlerini gösterir:
